@@ -1,0 +1,3 @@
+This project contains only the main program from of the
+compiler. The driver and test suite are excluded.
+
